@@ -1,0 +1,10 @@
+{"flutter":
+{"platforms":
+{"android":
+{"default":
+{"projectId":"cumpar-auto",
+"appId":"1:203255794759:android:039be7de76c908d420b562",
+"fileOutput":"android/app/google-services.json"}},
+"dart":{"lib/firebase_options.dart":{"projectId":"cumpar-auto",
+"configurations":{"android":"1:203255794759:android:039be7de76c908d420b562",
+"ios":"1:203255794759:ios:8feaefa34502a40720b562"}}}}}}

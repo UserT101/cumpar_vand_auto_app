@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "162375411515",
+    "project_id": "cumpar-auto-e6064",
+    "storage_bucket": "cumpar-auto-e6064.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162375411515:android:32a6c9d2d6f611024ef91e",
+        "android_client_info": {
+          "package_name": "ro.cumpar_masini.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162375411515-8j59bmprcr13vck6hhacipdb4q0036pm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4Hw70u5U0DoZcGXX1cUGirLPuEOIkFS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162375411515-8j59bmprcr13vck6hhacipdb4q0036pm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "162375411515-splvthpk8hv8qipdc9fsi3dcbta5qb08.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cumparAuto"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
