@@ -26,4 +26,5 @@ Această aplicație Flutter permite utilizatorilor să vândă și să cumpere a
 * **Frontend:** [Flutter](https://flutter.dev/) (Dart)
 * **Backend & Database:** Google Firebase (Firestore, Authentication, Storage pentru imagini).
 * **Platforme:** Android (Kotlin, minSdk 21, targetSdk 35) & iOS.
-* **Arhitectură:** MVC / Provider (sau ce folosești tu pentru state management).
+
+## In curand: lansare pe google play și apple store!
