@@ -50,19 +50,10 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyB4Hw70u5U0DoZcGXX1cUGirLPuEOIkFS0',
-    appId: '1:162375411515:android:8f8e1bf38f0371054ef91e',
-    messagingSenderId: '162375411515',
-    projectId: 'cumpar-auto-e6064',
-    storageBucket: 'cumpar-auto-e6064.firebasestorage.app',
+    
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCKO3VErzuBEAhuFdNnJP-SDnKsMiSeGd0',
-    appId: '1:162375411515:ios:b6313ef0d0d12a124ef91e',
-    messagingSenderId: '162375411515',
-    projectId: 'cumpar-auto-e6064',
-    storageBucket: 'cumpar-auto-e6064.firebasestorage.app',
-    iosBundleId: 'com.example.cumparAuto',
+    
   );
 }
